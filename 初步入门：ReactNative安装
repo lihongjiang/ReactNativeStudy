@@ -1,4 +1,4 @@
-#windows环境安装
+# windows环境安装
 
 1 安装node.js
 2 安装gitbash.exe
@@ -10,7 +10,7 @@
       npm install -g react-native-cli
 
 
-#js开发环境安装
+# js开发环境安装
 
 1 安装atom
 2 安装nuclide插件
