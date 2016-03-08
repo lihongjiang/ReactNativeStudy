@@ -1,0 +1,18 @@
+#windows环境安装
+
+1 安装node.js
+2 安装gitbash.exe
+3 安装android studio
+4 下载android sdk
+     并配置环境变量：ANDROID_HOME
+5   从github上克隆react-native
+      在react-native目录下安装命令行工具：
+      npm install -g react-native-cli
+
+
+#js开发环境安装
+
+1 安装atom
+2 安装nuclide插件
+3 安装nuclide依赖插件
+Installing haskell-grammar, highlight-selected, language-babel, language-ini, language-ocaml, language-thrift, sort-lines, tool-bar
